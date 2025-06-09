@@ -1,0 +1,54 @@
+*{
+   margin:0;
+padding:0; 
+}
+body{
+    background-color: rgb(59, 57, 57);
+}
+h1{
+    color: white;
+    background-color:black;
+    height:50px;
+    border:3px solid gold;
+    padding:10px;
+    border-radius:10px;
+    margin-bottom: 50px;
+}
+.detail img{
+    width:10cm;
+}
+.detail h3{
+    color: goldenrod;
+    padding-bottom: 5px;
+}
+.detail p{
+    color: aliceblue;
+}
+.detail a{
+    text-decoration:none;
+    color:darkorange;
+    font-size:20px;
+}
+.detail{
+    width:12cm;
+    background-color: black;
+    border-color:rgb(255, 220, 19);
+    border-width:3px;
+    border-style: solid;
+    border-radius: 10px;
+    text-align: center;
+   
+}
+.box{
+    display: flex;
+    justify-content: center;
+}
+button{
+    width: 100px;
+    height:40px;
+    margin-left:56%;
+    margin-top:2px;
+    background-color: goldenrod;
+    color: black;
+    border-radius: 5px;
+}
